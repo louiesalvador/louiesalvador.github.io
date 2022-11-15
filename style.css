@@ -1,0 +1,32 @@
+body{
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color:rgb(193, 226, 101);
+    margin: 0;
+    padding: 0;
+    font-family: "Courier New";
+    color: darkblue;
+}
+form{
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    margin: auto;
+    width: 200px;
+}
+div{
+    background-color: rgb(63, 214, 96);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 25px;
+    align-items: flex-end;
+    margin: auto;
+    width: 200px;
+    padding: 25px;
+    align-items: flex-end;
+    box-shadow: 0 8px 10px rgb(124, 240, 144);
+}
